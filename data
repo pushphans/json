@@ -1,0 +1,40 @@
+{
+    "count": 20,
+    "totalCount": 1885,
+    "page": 1,
+    "totalPages": 95,
+    "lastItemIndex": 20,
+    "results": [
+      {
+        "tags": ["famous-quotes", "inspirational"],
+        "_id": "2XphYSOQP",
+        "author": "Helmut Schmidt",
+        "content": "The biggest room in the world is room for improvement.",
+        "authorSlug": "helmut-schmidt",
+        "length": 54,
+        "dateAdded": "2021-06-18",
+        "dateModified": "2021-06-18"
+      },
+      {
+        "tags": ["famous-quotes", "inspirational"],
+        "_id": "XfLGgepInX",
+        "author": "Amy Poehler",
+        "content": "There's power in looking silly and not caring that you do.",
+        "authorSlug": "amy-poehler",
+        "length": 58,
+        "dateAdded": "2021-06-18",
+        "dateModified": "2021-06-18"
+      },
+      {
+        "tags": ["famous-quotes", "inspirational"],
+        "_id": "ZyPqJQjF3M",
+        "author": "Albert Einstein",
+        "content": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "authorSlug": "albert-einstein",
+        "length": 76,
+        "dateAdded": "2021-06-18",
+        "dateModified": "2021-06-18"
+      }
+    ]
+  }
+  
