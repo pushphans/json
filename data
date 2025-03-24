@@ -1,68 +1,84 @@
 {
-  "quotesData": [
+  "totalCount": 1885,
+  "totalPages": 95,
+  "pages": [
     {
+      "count": 20,
       "page": 1,
-      "quotes": [
+      "lastItemIndex": 20,
+      "results": [
         {
-          "id": 1,
-          "text": "The only limit to our realization of tomorrow is our doubts of today.",
-          "author": "Franklin D. Roosevelt"
+          "tags": ["famous-quotes", "inspirational"],
+          "_id": "2XphYSOQP",
+          "author": "Helmut Schmidt",
+          "content": "The biggest room in the world is room for improvement.",
+          "authorSlug": "helmut-schmidt",
+          "length": 54,
+          "dateAdded": "2021-06-18",
+          "dateModified": "2021-06-18"
         },
         {
-          "id": 2,
-          "text": "Do what you can, with what you have, where you are.",
-          "author": "Theodore Roosevelt"
+          "tags": ["famous-quotes", "inspirational"],
+          "_id": "XfLGgepInX",
+          "author": "Amy Poehler",
+          "content": "There's power in looking silly and not caring that you do.",
+          "authorSlug": "amy-poehler",
+          "length": 58,
+          "dateAdded": "2021-06-18",
+          "dateModified": "2021-06-18"
         }
-      ],
-      "nextPage": 2
+      ]
     },
     {
+      "count": 20,
       "page": 2,
-      "quotes": [
+      "lastItemIndex": 40,
+      "results": [
         {
-          "id": 3,
-          "text": "It does not matter how slowly you go as long as you do not stop.",
-          "author": "Confucius"
-        },
-        {
-          "id": 4,
-          "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-          "author": "Winston Churchill"
+          "tags": ["wisdom", "life"],
+          "_id": "A1b2C3d4",
+          "author": "Confucius",
+          "content": "It does not matter how slowly you go as long as you do not stop.",
+          "authorSlug": "confucius",
+          "length": 76,
+          "dateAdded": "2021-06-19",
+          "dateModified": "2021-06-19"
         }
-      ],
-      "nextPage": 3
+      ]
     },
     {
+      "count": 20,
       "page": 3,
-      "quotes": [
+      "lastItemIndex": 60,
+      "results": [
         {
-          "id": 5,
-          "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
-          "author": "C.S. Lewis"
-        },
-        {
-          "id": 6,
-          "text": "Happiness depends upon ourselves.",
-          "author": "Aristotle"
+          "tags": ["success", "determination"],
+          "_id": "E5f6G7h8",
+          "author": "Winston Churchill",
+          "content": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+          "authorSlug": "winston-churchill",
+          "length": 103,
+          "dateAdded": "2021-06-20",
+          "dateModified": "2021-06-20"
         }
-      ],
-      "nextPage": 4
+      ]
     },
     {
+      "count": 20,
       "page": 4,
-      "quotes": [
+      "lastItemIndex": 80,
+      "results": [
         {
-          "id": 7,
-          "text": "Believe you can and you’re halfway there.",
-          "author": "Theodore Roosevelt"
-        },
-        {
-          "id": 8,
-          "text": "Your time is limited, so don’t waste it living someone else’s life.",
-          "author": "Steve Jobs"
+          "tags": ["leadership", "motivation"],
+          "_id": "I9j0K1L2",
+          "author": "Theodore Roosevelt",
+          "content": "Do what you can, with what you have, where you are.",
+          "authorSlug": "theodore-roosevelt",
+          "length": 57,
+          "dateAdded": "2021-06-21",
+          "dateModified": "2021-06-21"
         }
-      ],
-      "nextPage": null
+      ]
     }
   ]
 }
