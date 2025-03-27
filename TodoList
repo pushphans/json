@@ -1,32 +1,30 @@
-[
 {
-"userId" = 1,
-"id" = 1,
-"title" = "Android Development"
-"completed" = false
+"userId" : 1,
+"id" : 1,
+"title" : "Android Development"
+"completed" : false
 },
 {
-"userId" = 1,
-"id" = 2,
-"title" = "Quantative Aptitude"
-"completed" = false
+"userId" : 1,
+"id" : 2,
+"title" : "Quantative Aptitude"
+"completed" : false
 },
 {
-"userId" = 1,
-"id" = 3,
-"title" = "Reasoning"
-"completed" = false
+"userId" : 1,
+"id" : 3,
+"title" : "Reasoning"
+"completed" : false
 },
 {
-"userId" = 1,
-"id" = 4,
-"title" = "English"
-"completed" = false
+"userId" : 1,
+"id" : 4,
+"title" : "English"
+"completed" : false
 },
 {
-"userId" = 1,
-"id" = 5,
-"title" = "General Awareness"
-"completed" = false
+"userId" : 1,
+"id" : 5,
+"title" : "General Awareness"
+"completed" : false
 }
-]
